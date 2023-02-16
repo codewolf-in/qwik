@@ -8,8 +8,14 @@ export default component$(() => {
       <Link class="mindblow" href="/flower/">
         Blow my mind 🤯
       </Link>
-      <Link class="todolist" href="/todolist/">
+      <Link class="mindblow" href="/todolist/">
         TODO demo 📝
+      </Link>
+      <Link class="mindblow" href="/counter/">
+        Counter 📝
+      </Link>
+      <Link class="mindblow" href="/clock/">
+        Clock 📝
       </Link>
     </div>
   );
